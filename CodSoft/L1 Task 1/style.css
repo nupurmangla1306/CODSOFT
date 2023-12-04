@@ -1,0 +1,87 @@
+body {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 50;
+    padding: 0;
+    background-image:url(./template\ 1.png);
+    background-position: center;
+    background-size: 100%;
+}
+
+
+section {
+    margin: 20px;
+    padding: 10px;
+    background-color:rgba(238, 242, 245, 0.075);
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight:bolder;
+    font-size: 80px;
+    font-style: italic;
+    color: #6fd145;
+}
+
+h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, italic;
+    font-size:60px;
+    text-align: center;
+    color: #860a88;
+    font-weight: bolder;
+    font-style: oblique;
+}
+
+h3{
+    color: #5fea76;
+    font-size: 30px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+}
+
+p {
+    color:rgb(248, 244, 244);
+    font-weight: 900;
+    font-size: 19px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #8a1919;
+    color: #ffffff;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+div{
+    font-style: oblique;
+    color: #aaaf1c;
+    display: inline-block;
+    padding: 2px;
+
+}
+
+.service-box{
+    color: #b22f2f;
+    background-color: rgba(5, 47, 83, 0.744);
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+
+li{
+    color: aquamarine;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+footer {
+    background-color: #601d9f97;
+    color: #ddd6d6;
+    text-align: center;
+    padding: 5px;
+    position:relative;
+    bottom: 0;
+    width: 100%;
+}
